@@ -1,5 +1,5 @@
 name = "Paadi"
-frind = "Meet"
+frind = "Unknown"
 anotherFriend = 'Ronak'
 apple = ''' He said,
 Hi Paadi
